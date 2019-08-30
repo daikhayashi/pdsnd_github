@@ -1,6 +1,6 @@
 ### Date created
-Date bikeshare.py file created: 8/15/2019
-Date README file created: 8/29/2019
+bikeshare.py: 8/15/2019
+README.md: 8/29/2019
 
 ### Project Title
 Bikeshare research
