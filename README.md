@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Provide bikeshare data by city, month, and day of week selected by users
 
 ### Files used
 Include the files used
